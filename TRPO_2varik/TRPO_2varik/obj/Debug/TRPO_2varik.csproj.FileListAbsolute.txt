@@ -17,3 +17,14 @@ C:\Users\ilsha\Desktop\TRPO_2varik\TRPO_2varik\obj\Debug\TRPO_2varik.csproj.Gene
 C:\Users\ilsha\Desktop\TRPO_2varik\TRPO_2varik\obj\Debug\TRPO_2varik.csproj.CoreCompileInputs.cache
 C:\Users\ilsha\Desktop\TRPO_2varik\TRPO_2varik\obj\Debug\TRPO_2varik.exe
 C:\Users\ilsha\Desktop\TRPO_2varik\TRPO_2varik\obj\Debug\TRPO_2varik.pdb
+C:\Users\Ilshat\Desktop\laba1_isrpo\TRPO_2varik\TRPO_2varik\bin\Debug\TRPO_2varik.exe.config
+C:\Users\Ilshat\Desktop\laba1_isrpo\TRPO_2varik\TRPO_2varik\bin\Debug\TRPO_2varik.exe
+C:\Users\Ilshat\Desktop\laba1_isrpo\TRPO_2varik\TRPO_2varik\bin\Debug\TRPO_2varik.pdb
+C:\Users\Ilshat\Desktop\laba1_isrpo\TRPO_2varik\TRPO_2varik\obj\Debug\TRPO_2varik.csproj.AssemblyReference.cache
+C:\Users\Ilshat\Desktop\laba1_isrpo\TRPO_2varik\TRPO_2varik\obj\Debug\TRPO_2varik.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ilshat\Desktop\laba1_isrpo\TRPO_2varik\TRPO_2varik\obj\Debug\TRPO_2varik.Form1.resources
+C:\Users\Ilshat\Desktop\laba1_isrpo\TRPO_2varik\TRPO_2varik\obj\Debug\TRPO_2varik.Properties.Resources.resources
+C:\Users\Ilshat\Desktop\laba1_isrpo\TRPO_2varik\TRPO_2varik\obj\Debug\TRPO_2varik.csproj.GenerateResource.cache
+C:\Users\Ilshat\Desktop\laba1_isrpo\TRPO_2varik\TRPO_2varik\obj\Debug\TRPO_2varik.csproj.CoreCompileInputs.cache
+C:\Users\Ilshat\Desktop\laba1_isrpo\TRPO_2varik\TRPO_2varik\obj\Debug\TRPO_2varik.exe
+C:\Users\Ilshat\Desktop\laba1_isrpo\TRPO_2varik\TRPO_2varik\obj\Debug\TRPO_2varik.pdb
