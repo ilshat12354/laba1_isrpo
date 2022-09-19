@@ -400,5 +400,10 @@ namespace TRPO_2varik
             }
             timer.Start();
         }
+
+        private void button11_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

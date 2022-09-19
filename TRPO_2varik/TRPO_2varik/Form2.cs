@@ -16,5 +16,10 @@ namespace TRPO_2varik
         {
             InitializeComponent();
         }
+
+        private void Form2_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
